@@ -1,0 +1,34 @@
+header{
+    background-color: #00abae;
+    height: 530px;
+}
+header .white{
+    color: white;
+    font-size: 50px;
+    padding-top: 182px;
+    padding-left: 800px;
+}
+header .white_2{
+    color: rgba(225, 225, 225, 0.9);
+    text-align: center;
+    margin-left: 300px;
+}
+.profile{
+    background-color: whitesmoke;
+    height: 530px;
+}
+.profile h1{
+    text-align: center;
+}
+.profile img{
+    width: 125px;
+    height: 125px;
+    padding-left: 680px;
+}
+.profile .abae{
+    color: #00abae;
+    text-align: center;
+}
+.profile .me{
+    text-align: center;
+}
