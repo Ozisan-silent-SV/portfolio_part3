@@ -21,8 +21,12 @@ header .white_2{
     text-align: center;
 }
 .profile img{
-    width: 125px;
-    height: 125px;
+    width: 100%;
+    max-width: 125px;
+    height: 100%;
+    max-height: 125px;
+}
+.profile .Iam img{
     padding-left: 680px;
 }
 .profile .abae{
@@ -32,3 +36,20 @@ header .white_2{
 .profile .me{
     text-align: center;
 }
+/* 補助付き */
+.icon{
+    list-style: none;
+    width: 100%;
+    max-width: 252px;
+    height: 125px;
+    max-height: 125px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px auto;
+    padding: 0;
+}
+.icon li{
+    margin-right: 22px;
+}
+/* 補助付き ここまで */
