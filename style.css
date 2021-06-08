@@ -55,3 +55,16 @@ header .white_2{
     margin-right: 22px;
 }
 /* 補助付き ここまで */
+.blue_{
+    color: #00abae;
+}
+.white_{
+    color: white;
+}
+.works .white_2{
+    color: rgba(225, 225, 225, 0.9);
+}
+.works{
+    text-align: center;
+    background-color: #00abae;
+}
