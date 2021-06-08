@@ -1,5 +1,6 @@
 header{
-    background-color: #00abae;
+    /* backgroundで背景にグラデーション */
+    background: linear-gradient(#00abae,#000) fixed;
     height: 640px;
     width: 100%;
 }
