@@ -29,9 +29,6 @@ header .white_2{
     height: 100%;
     max-height: 125px;
 }
-.profile .Iam img{
-    padding-left: 680px;
-}
 .profile .abae{
     color: #00abae;
     text-align: center;
@@ -68,4 +65,9 @@ header .white_2{
 .works{
     text-align: center;
     background-color: #00abae;
+}
+
+/* 追加 */
+.works li{
+    list-style: none;
 }
